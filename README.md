@@ -36,6 +36,21 @@ Arithmetic library is place under **"com.generic.arithmetic"** package.
 ## Build :
 mvn clean install
 
+## Unit Test :
+ Unit tests can be find at  
+ **/src/test/java/com/generic/arithmetic**
+ Project test includes following 
+ * 'GeneralDivisionTest' : Perform division testing
+ *  'GenericAdditionTest' : Perform addition testing
+ * 'GenericPowerTest' : Perfom power testing
+ * 'GenericSqrtTest' : Perform square root testing
+ * 'GenericSubtractionTest' : Perform subtraction testing
+ * 'NumberConvertorTest' :Perform conversion testing 
+ * 'TestBase' : Provide common functionality for tests
+ * 'JunitTestSuite' : Provid regression test
+ 
+
+
 ## JAR File
 JAR files are packaged with the ZIP file format, so you can use them for tasks such as loss less data compression, archiving, decompression, and archive unpacking. These tasks are among the most common uses of JAR files, and you can realize many JAR file benefits using only these basic features.
 Project JAR file can be find under
